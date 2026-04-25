@@ -1,0 +1,6 @@
+{
+  "name": "Cipher Guess",
+  "description": "A privacy-preserving number guessing game demonstrating Fully Homomorphic Encryption (FHE) concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
